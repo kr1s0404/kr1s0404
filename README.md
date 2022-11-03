@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kr1s0404
+- 👋 Hi, I’m Kris, a college student.
 - 👀 I’m interested in developing iOS App
 - 🌱 I’m currently learning Swift, SwiftUI, Vapor
 - 💞️ I’m looking to collaborate with backend developer
