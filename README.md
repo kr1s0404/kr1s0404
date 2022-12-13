@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **[Instagram](https://www.instagram.com/_kr1s.4/)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18uwJpxGaemOISLzyA22w4IB8UktwrKYu/view?usp=share_link](https://drive.google.com/file/d/18uwJpxGaemOISLzyA22w4IB8UktwrKYu/view?usp=share_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/18uwJpxGaemOISLzyA22w4IB8UktwrKYu/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
