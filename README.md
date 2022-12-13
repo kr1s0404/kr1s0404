@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Vapor**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kr1s0404](https://github.com/kr1s0404)
+- 👨‍💻 All of my projects are available at [github](https://github.com/kr1s0404)
 
-- 📝 I regularly post videos on [[Youtube](https://www.youtube.com/channel/UCToRbpiXh__UajSaYWBOvLA)]([Youtube](https://www.youtube.com/channel/UCToRbpiXh__UajSaYWBOvLA))
+- 📝 I regularly post videos on [Youtube](https://www.youtube.com/channel/UCToRbpiXh__UajSaYWBOvLA)
 
 - 💬 Ask me about **iOS Stuff**
 
