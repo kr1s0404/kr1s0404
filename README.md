@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kr1s0404" alt="kr1s0404" /></a> </p>
 
-- 🔭 I’m currently working on my personal project [Daily Valorant](https://apps.apple.com/tw/app/dailyval/id1637782901)
+- 🔭 I’m currently working on my personal project [Daily Valorant](https://dailyval.my.canva.site/)
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Vapor**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **iOS Stuff**
 
-- 📫 How to reach me **[Instagram](https://www.instagram.com/_kr1s.4/)**
+- 📫 You can reach me on **[Instagram](https://www.instagram.com/_kr1s.4/)**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/18uwJpxGaemOISLzyA22w4IB8UktwrKYu/view?usp=share_link)
 
