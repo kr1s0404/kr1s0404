@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kr1s0404" alt="kr1s0404" /></a> </p>
 
-- 🔭 I’m currently working on my personal project [Daily Valorant]([https://dailyval.my.canva.site/](https://apps.apple.com/tw/app/dailyval/id1637782901?ign-itscg=30200&ign-itsct=apps_box_promote_link&platform=iphone))
+- 🔭 I’m currently working on my personal project [DailyVal Website](https://dailyval.com/), [DailyVal AppStore](https://apps.apple.com/app/dailyval/id1637782901)
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Vapor**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/kr1s0404)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kr1s0404)
 
 - 📝 I regularly post videos on [Youtube](https://www.youtube.com/channel/UCToRbpiXh__UajSaYWBOvLA)
 
-- 💬 Ask me about **iOS Stuff**
+- 💬 Ask me about FPS! **I play CSGO and Valorant**
 
 - 📫 You can reach me on **[Instagram](https://www.instagram.com/_kr1s.4/)**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/18uwJpxGaemOISLzyA22w4IB8UktwrKYu/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18uwJpxGaemOISLzyA22w4IB8UktwrKYu/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
