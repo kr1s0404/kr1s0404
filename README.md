@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kr1s0404" alt="kr1s0404" /></a> </p>
 
-- 🔭 I’m currently working on my personal project [DailyVal Website](https://dailyval.com/), [DailyVal AppStore](https://apps.apple.com/app/dailyval/id1637782901)
+- 🔭 I’m currently working on my personal project [DailyVal Website](https://ios.dailyval.com/), [DailyVal AppStore](https://apps.apple.com/app/dailyval/id1637782901)
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Vapor**
 
