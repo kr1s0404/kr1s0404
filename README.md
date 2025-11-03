@@ -17,8 +17,6 @@
 
 - 📫 You can reach me on **[Instagram](https://www.instagram.com/_kr1s.4/)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18uwJpxGaemOISLzyA22w4IB8UktwrKYu/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kris-yu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kris yu" height="30" width="40" /></a>
